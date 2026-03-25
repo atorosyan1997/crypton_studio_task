@@ -1,7 +1,7 @@
 # Crypton Studio Task
 
-**Author:** Arman Torosyan
-**Email:** armantorosyan1997@gmail.com
+**Author:** Arman Torosyan<br>
+**Email:** armantorosyan1997@gmail.com<br>
 **Telegram:** @atorosyan
 
 ## Description

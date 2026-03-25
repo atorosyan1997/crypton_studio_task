@@ -1,7 +1,3 @@
-// Author: Arman Torosyan
-// Email: armantorosyan1997@gmail.com
-// Telegram: @atorosyan
-
 // Package memory provides in-memory repository implementations.
 package memory
 
